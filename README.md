@@ -1,5 +1,5 @@
 # Whac a Mole Game with WebGL
-This is our project for Intorduction to Computer Graphics Course. This is a basic whac-a-mole game.
+This is our project for Introduction to Computer Graphics Course. This is a basic whac-a-mole game.
 
 ### Game Rules
 1. When you click a mole, mole will die, your score will increase.

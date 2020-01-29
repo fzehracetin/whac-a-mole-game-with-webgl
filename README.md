@@ -9,7 +9,7 @@ This is our project for Introduction to Computer Graphics Course. This is a basi
 
 This game is 3D. We used direct lighting for light. 
 
-Screenshot from Game
+#### Screenshots from Game
 
 ![Screenshot from Game](Screenshots/whac-a-mole.png)
 
